@@ -19,4 +19,17 @@ Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_do
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/cards](https://hexdocs.pm/cards).
 
-"# ElixirCards" 
+## Ejecutar
+
+iex -S mix
+
+## Compilar
+
+recompile
+
+## Crear un proyecto nuevo
+
+mix new <proyecto>
+
+## Verificar
+mix test
