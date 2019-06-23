@@ -2,19 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d774f4a1-a876-491d-9c97-3e83f6fbab78" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/benchee.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/cmark.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/earmark.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/ex_doc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/excoveralls.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/makeup.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/makeup_elixir.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/nimble_parsec.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/stream_data.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cards.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cards.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/cards.ex" beforeDir="false" afterPath="$PROJECT_DIR$/lib/cards.ex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mix.exs" beforeDir="false" afterPath="$PROJECT_DIR$/mix.exs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/cards_test.exs" beforeDir="false" afterPath="$PROJECT_DIR$/test/cards_test.exs" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
@@ -38,7 +25,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/cards.ex">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="445">
@@ -47,11 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/cards_test.exs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+            <state relative-caret-position="340">
+              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -75,8 +62,8 @@
       <list>
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/mix.exs" />
-        <option value="$PROJECT_DIR$/test/cards_test.exs" />
         <option value="$PROJECT_DIR$/lib/cards.ex" />
+        <option value="$PROJECT_DIR$/test/cards_test.exs" />
       </list>
     </option>
   </component>
@@ -159,6 +146,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1087" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30196938" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -204,17 +192,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/cards_test.exs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/cards.ex">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="445">
           <caret line="139" column="5" selection-start-line="139" selection-start-column="5" selection-end-line="139" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/cards_test.exs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
         </state>
       </provider>
     </entry>
